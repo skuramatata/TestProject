@@ -1,6 +1,6 @@
 ﻿<template>
     <div>
-
+        1111111111
     </div>
 </template>
 <script lang="ts">
@@ -16,8 +16,7 @@
             });
         },
         methods: {
-            fetchData() {
-                let tt = 0;
+            fetchData() {               
             }
         }
     };
