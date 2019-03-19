@@ -7,7 +7,7 @@
     export default {
         data() {
             return {
-              
+
             }
         },
         mounted() {
@@ -17,9 +17,8 @@
         },
         methods: {
             fetchData() {
-              
-            },
-           
+                let tt = 0;
+            }
         }
     };
 </script>
