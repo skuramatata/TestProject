@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    //"outDir": "wwwroot/scripts/",
+    "noImplicitAny": false,
+    "noEmitOnError": true,
+    "removeComments": false,
+    "sourceMap": true,
+    "target": "es2018",
+    //"strict": true,
+    "types": [ "node" ]
+  }, 
+  "module": "ESNext",
+  "compileOnSave": true
+}
